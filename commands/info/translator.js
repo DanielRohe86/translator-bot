@@ -1,5 +1,6 @@
 const { Client, Message } = require("discord.js");
 const translate = require('@iamtraction/google-translate');
+// 
 
 module.exports = {
   name: "translate",
